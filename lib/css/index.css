@@ -1,0 +1,47 @@
+
+
+.main_frame .left .box {
+	float: left;
+}
+
+.main_frame .left .float_imgs{
+	height: 200px;
+	width: 580px;
+	margin: 0px 0px 0px 10px
+}
+#fimg_1 {
+	background:  url("../img/e.jpg");
+}
+#fimg_2 {
+	background:  url("../img/e2.jpg");
+}
+#fimg_3 {
+	background:  url("../img/e3.jpg");
+}
+#fimg_4 {
+	background:  url("../img/e4.jpg");
+}
+
+hr {
+	width:570px;
+	float:left;
+	margin: 30px 0px 20px 15px;
+}
+
+.main_frame .left .frontList {
+	line-height: 38px;
+}
+
+.main_frame .left .frontList li{
+	width: 500px;
+//	border-bottom: 1px dotted #000;
+//	border-style: none none dotted none;
+}
+
+.main_frame .left .frontList li .date{
+	color: #999999;
+}
+
+.main_frame .right {
+	height: 580px;
+}
